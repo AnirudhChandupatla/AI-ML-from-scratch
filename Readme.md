@@ -1,1 +1,1 @@
-initial commit, implementing Principal Component Analysis from scratch
+repo contains algorithms implemented from scratch
